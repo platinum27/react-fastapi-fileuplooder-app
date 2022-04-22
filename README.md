@@ -17,5 +17,5 @@ Finally run the App with the command uvicorn main:app
 
 ### Steps to start the frontend
 
-run npm install
-run npm start
+### 1) npm install
+### 2) npm start
